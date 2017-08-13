@@ -15,7 +15,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 #aside {
     width: 50%;
     height: 100%;
-    background: url(../img/home.png) no-repeat 50%;
+    background: url(../img/home.jpg) no-repeat 50%;
     background-size: 100% 100%;
     transition: width .3s;
 }
