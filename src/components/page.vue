@@ -34,7 +34,7 @@
             </div>
             <div class="about-nav" >
               <router-link to="/myresume" target="_blank">
-                关于
+                关于我
               </router-link>
               <a href="/">项目</a>
             </div>

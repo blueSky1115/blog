@@ -16,7 +16,7 @@
 					<li>有氧分享</li>
 				<!--</router-link>-->
 				<!--<router-link to="/detail">-->
-					<li>碎言碎语</li>
+					<li>项目</li>
 				<!--</router-link>-->
 			</ul>
 		</div>
