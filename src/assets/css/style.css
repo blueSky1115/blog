@@ -1,0 +1,44 @@
+@charset "utf-8";
+/*Personal blog*/
+/* reset */
+body,h1,h2,h3,h4,h5,p,dl,dd,ul,ol,form,input,textarea,th,td,select {
+    margin:0;
+    padding:0;
+}
+em {
+    font-style:normal;
+}
+li {
+    list-style:none;
+}
+a {
+    text-decoration:none;
+}
+img {
+    border:none;
+    vertical-align:top;
+}
+table {
+    border-collapse:collapse;
+}
+input,textarea {
+    outline:none;
+}
+textarea {
+    resize:none;
+    overflow:auto;
+}
+html, body{
+    width: 100%;
+    overflow-x: hidden;
+    /*以免F12的时候左右两边有留白*/
+}
+body {
+    font-size:12px;
+    font-family:"微软雅黑";
+
+    /*height: 3000px;*/
+}
+/* end reset */
+
+
