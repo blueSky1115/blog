@@ -12,9 +12,9 @@
 				<router-link to="/myresume">
 					<li>关于我</li>
 				</router-link>
-				<!--<router-link to="/project">-->
+				<router-link to="/sharepage">
 					<li>有氧分享</li>
-				<!--</router-link>-->
+				</router-link>
 				<!--<router-link to="/detail">-->
 					<li>项目</li>
 				<!--</router-link>-->

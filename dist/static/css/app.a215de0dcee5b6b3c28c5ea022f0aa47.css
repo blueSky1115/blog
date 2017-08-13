@@ -546,3 +546,48 @@ body {
   padding-right: 20px;
   width: 50px
 }
+
+.neirong4 {
+  width: 1000px;
+  height: 1000px;
+  background: #f4f4f4;
+  margin: 0 auto;
+  overflow-y: scroll
+}
+
+.neirong4 h1 {
+  text-align: center;
+  padding: 30px;
+  background: #cbecf7;
+  color: #828a8b
+}
+
+.neirong4 p {
+  width: 800px;
+  font-size: 18px;
+  font-family: \\5FAE\8F6F\96C5\9ED1;
+  margin: 5px auto;
+  text-indent: 40px;
+  line-height: 40px
+}
+
+.neirong4 .shareb {
+  width: 750px;
+  margin: 10px auto
+}
+
+.neirong4 .shareb li {
+  width: 750px;
+  height: 130px;
+  margin-top: 20px;
+  border: 1px solid rgba(0, 0, 0, .34)
+}
+
+.neirong4 .shareb li span {
+  padding-left: 80px;
+  text-align: center;
+  line-height: 130px;
+  font-size: 14px;
+  font-family: \\5FAE\8F6F\96C5\9ED1;
+  color: #828a8b
+}
