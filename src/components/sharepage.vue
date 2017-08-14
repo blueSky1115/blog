@@ -36,7 +36,7 @@
           <li>
             <a target="_blank" href="http://pan.baidu.com/s/1ge6vQjL">
               <img src="../assets/img/f5.png" alt="">
-              <span>5.兼容解决方案-download-密码:04sj</span>
+              <span>5.兼容解决方案-download-密码:hzzj</span>
             </a>
           </li>
           <li>
