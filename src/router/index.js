@@ -7,6 +7,7 @@ import List from '@/components/list'
 import Essay from '@/components/essay'
 import Myresume from '@/components/myresume'
 import Sharepage from '@/components/sharepage'
+import Show from '@/components/show'
 
 Vue.use(Router)
 
@@ -41,6 +42,11 @@ export default new Router({
       path: '/sharepage',
       name: 'sharepage',
       component: Sharepage
+    },
+    {
+      path: '/show',
+      name: 'show',
+      component: Show
     }
   ]
 })

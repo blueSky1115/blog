@@ -15,9 +15,9 @@
 				<router-link to="/sharepage">
 					<li>有氧分享</li>
 				</router-link>
-				<!--<router-link to="/detail">-->
+				<router-link to="/show">
 					<li>项目</li>
-				<!--</router-link>-->
+				</router-link>
 			</ul>
 		</div>
 	</div>
