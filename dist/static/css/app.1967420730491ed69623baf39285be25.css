@@ -1,0 +1,174 @@
+.neirong {
+  width: 1000px;
+  height: 1500px;
+  background: #f4f4f4;
+  margin: 0 auto;
+  overflow-y: scroll
+}
+
+.neirong h1 {
+  text-align: center;
+  padding: 30px;
+  background: #cbecf7
+}
+
+.neirong p {
+  width: 800px;
+  font-size: 18px;
+  font-family: \\5FAE\8F6F\96C5\9ED1;
+  margin: 5px auto;
+  text-indent: 40px;
+  line-height: 40px
+}
+
+.neirong1 {
+  width: 1000px;
+  height: 1000px;
+  background: #f4f4f4;
+  margin: 0 auto;
+  overflow-y: scroll
+}
+
+.limit {
+  width: 800px;
+  height: 800px;
+  margin: 50px auto;
+  clear: both
+}
+
+.limit li {
+  width: 240px;
+  height: 140px;
+  float: left;
+  margin: 10px 14px 10px 10px;
+  font-size: 20px;
+  padding-top: 100px;
+  text-align: center;
+  color: #fff;
+  background: #63c8e9
+}
+
+.limit li:hover {
+  color: #000;
+  background: #fff;
+  transition: 1s
+}
+
+.neirong1 h1 {
+  text-align: center;
+  padding: 30px;
+  background: #cbecf7;
+  color: #828a8b
+}
+
+.neirong2 {
+  width: 1000px;
+  height: 1500px;
+  background: #f4f4f4;
+  margin: 0 auto;
+  overflow-y: scroll
+}
+
+.neirong2 h1 {
+  text-align: center;
+  padding: 30px;
+  background: #cbecf7;
+  color: #828a8b
+}
+
+.neirong2 h3 {
+  font-size: 18px;
+  color: #058ac9;
+  padding: 15px 150px;
+  text-indent: 40px
+}
+
+.neirong2 p {
+  padding-left: 228px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  line-height: 3;
+  color: #333;
+  font-size: 16px
+}
+
+.neirong2 p .title {
+  padding-right: 20px;
+  width: 50px
+}
+
+.neirong4 {
+  width: 1000px;
+  height: 1000px;
+  background: #f4f4f4;
+  margin: 0 auto;
+  overflow-y: scroll
+}
+
+.neirong4 h1 {
+  text-align: center;
+  padding: 30px;
+  background: #cbecf7;
+  color: #828a8b
+}
+
+.neirong4 p {
+  width: 800px;
+  font-size: 18px;
+  font-family: \\5FAE\8F6F\96C5\9ED1;
+  margin: 5px auto;
+  text-indent: 40px;
+  line-height: 40px
+}
+
+.neirong4 .shareb {
+  width: 750px;
+  margin: 10px auto
+}
+
+.neirong4 .shareb li {
+  width: 750px;
+  height: 130px;
+  margin-top: 20px;
+  border: 1px solid rgba(0, 0, 0, .34)
+}
+
+.neirong4 .shareb li span {
+  padding-left: 80px;
+  text-align: center;
+  line-height: 130px;
+  font-size: 14px;
+  font-family: \\5FAE\8F6F\96C5\9ED1;
+  color: #828a8b
+}
+
+.neirong5 {
+  width: 1000px;
+  height: 1000px;
+  background: #f4f4f4;
+  margin: 0 auto;
+  overflow-y: scroll
+}
+
+.neirong5 h1 {
+  text-align: center;
+  padding: 30px;
+  background: #cbecf7;
+  color: #828a8b
+}
+
+.neirong5 .list {
+  width: 850px;
+  height: 1000px;
+  margin: 0 auto
+}
+
+.neirong5 .list li {
+  width: 260px;
+  height: 260px;
+  border: 1px solid blue;
+  float: left;
+  margin: 10px;
+  overflow: hidden
+}
