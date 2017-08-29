@@ -3,7 +3,7 @@
 		<div class="footone">
 			<img src="../assets/img/erweima.png" alt="">
 			<ul class="listtwo">
-				<li>QQ:55498238</li>
+				<li>联系QQ:55498238</li>
 				<li>联系邮箱:liaochen55498238@qq.com</li>
 				<li>联系电话:18683934731</li>
 				<li>注册号:暂时未注册.com.cn</li>
