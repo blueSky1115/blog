@@ -6,7 +6,7 @@
 				<li>QQ:55498238</li>
 				<li>联系邮箱:liaochen55498238@qq.com</li>
 				<li>联系电话:18683934731</li>
-				<li>备案注册号:暂时未注册.com.cn</li>
+				<li>注册号:暂时未注册.com.cn</li>
 			</ul>
 		</div>
 	</div>
