@@ -11,6 +11,10 @@
           Project Show<br/>
           部分项目展示
         </h1>
+        <p class="texta">
+          注释:介于有的项目关乎商业机密不方便外传;<br/>
+          分享项目里面包含了PC端及移动端，请在点击浏览的时候注意切换浏览器的窗口<br/>
+        </p>
         <ul class="list" id="list">
           <a target="_blank" href="https://bluesky1115.github.io/tiger/index.html">
             <li>
@@ -98,6 +102,12 @@
     /*border: 1px solid red;*/
     margin: 0 auto;
     overflow-y:scroll
+  }
+  .neirong5 .texta{
+    text-align: center;
+    font-size: 12px;
+    color: black;
+    font-family: "微软雅黑";
   }
 
   .neirong5 h1 {
