@@ -126,7 +126,7 @@
   .neirong5 .list li{
     width: 200px;
     height: 200px;
-    border: 1px solid blue;
+    border: 1px solid rgba(0, 0, 0, 0.22);
     float: left;
     margin: 40px;
     overflow: hidden;
