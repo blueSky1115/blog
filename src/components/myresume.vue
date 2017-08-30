@@ -13,7 +13,7 @@
       <span class="title">姓名:</span>廖晨
     </p>
     <p>
-      <span class="title">年龄:</span>1986年
+      <span class="title">年龄:</span>1989年
     </p>
     <p>
       <span class="title">职业:</span>计算机科学与技术
