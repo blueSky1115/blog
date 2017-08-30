@@ -620,13 +620,25 @@ body {
 }
 
 .neirong5 .list li {
+  width: 200px;
+  height: 230px;
   border: 1px solid rgba(0, 0, 0, .22);
   float: left;
   margin: 40px;
   overflow: hidden
 }
 
-.neirong5 .list li, .neirong5 .list li img {
+.neirong5 .list li p {
+  color: rgba(0, 0, 0, .63);
+  text-align: center;
+  line-height: 32px
+}
+
+.neirong5 .list li p:hover {
+  color: #000
+}
+
+.neirong5 .list li img {
   width: 200px;
   height: 200px
 }

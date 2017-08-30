@@ -16,66 +16,78 @@
           分享项目里面包含了PC端及移动端，请在点击浏览的时候注意切换浏览器的窗口<br/>
         </p>
         <ul class="list" id="list">
-          <a target="_blank" href="https://bluesky1115.github.io/tiger/index.html">
-            <li>
-              <img src="../assets/img/pizza.png" alt="">
-            </li>
-          </a>
-          <a target="_blank" href="https://bluesky1115.github.io/dell/dell.html">
           <li>
+            <a target="_blank" href="https://bluesky1115.github.io/tiger/index.html">
+            <img src="../assets/img/pizza.png" alt="">
+            <p>1.手机移动端</p>
+            </a>
+          </li>
+          <li>
+            <a target="_blank" href="https://bluesky1115.github.io/dell/dell.html">
             <img src="../assets/img/dell.png" alt="">
-          </li>
+            <p>2.手机移动端</p>
           </a>
-          <a target="_blank" href="https://bluesky1115.github.io/ifs/index.html">
+          </li>
           <li>
+            <a target="_blank" href="https://bluesky1115.github.io/ifs/index.html">
             <img src="../assets/img/ifs.png" alt="">
+            <p>3.手机移动端</p>
+            </a>
           </li>
-          </a>
-          <a target="_blank" href="https://bluesky1115.github.io/cocacola/homepage.html">
           <li>
+            <a target="_blank" href="https://bluesky1115.github.io/cocacola/homepage.html">
             <img src="../assets/img/kekoukele.png" alt="">
+            <p>4.手机移动端</p>
+            </a>
           </li>
-          </a>
-          <a target="_blank" href="https://bluesky1115.github.io/aigan/index.html">
           <li>
+            <a target="_blank" href="https://bluesky1115.github.io/aigan/index.html">
             <img src="../assets/img/aigan.png" alt="">
+            <p>5.手机移动端</p>
+            </a>
           </li>
-          </a>
-          <a target="_blank" href="http://www.isantai.com/">
-            <li>
-              <img src="../assets/img/santai.png" alt="">
-          </li>
-          </a>
-          <a target="_blank" href="https://bluesky1115.github.io/Basics/basics.html">
           <li>
+            <a target="_blank" href="http://www.isantai.com/">
+            <img src="../assets/img/santai.png" alt="">
+            <p>6.PC端</p>
+            </a>
+            </li>
+          <li>
+            <a target="_blank" href="https://bluesky1115.github.io/Basics/basics.html">
             <img src="../assets/img/jiazhuang.png" alt="">
+            <p>7.PC端</p>
+            </a>
           </li>
-          </a>
-          <a target="_blank" href="https://bluesky1115.github.io/car01/index.html">
           <li>
+            <a target="_blank" href="https://bluesky1115.github.io/car01/index.html">
             <img src="../assets/img/car.png" alt="">
+            <p>8.PC端</p>
+            </a>
           </li>
-          </a>
-          <a target="_blank" href="https://bluesky1115.github.io/wanbang/index.html">
           <li>
+            <a target="_blank" href="https://bluesky1115.github.io/wanbang/index.html">
             <img src="../assets/img/wangbang.png" alt="">
+            <p>9.PC端</p>
+            </a>
           </li>
-          </a>
-          <a target="_blank" href="https://bluesky1115.github.io/kele/index.html">
           <li>
+            <a target="_blank" href="https://bluesky1115.github.io/kele/index.html">
             <img src="../assets/img/kele.png" alt="">
+            <p>10.手机移动端</p>
+            </a>
           </li>
-          </a>
-          <a target="_blank" href="https://bluesky1115.github.io/36kr/index.html">
           <li>
+            <a target="_blank" href="https://bluesky1115.github.io/36kr/index.html">
             <img src="../assets/img/36k.png" alt="">
+            <p>11.手机移动端</p>
+            </a>
           </li>
-          </a>
-          <a target="_blank" href="https://bluesky1115.github.io/lookgame/index.html">
           <li>
+            <a target="_blank" href="https://bluesky1115.github.io/lookgame/index.html">
             <img src="../assets/img/look.png" alt="">
+            <p>12.PC端</p>
+            </a>
           </li>
-          </a>
         </ul>
       </div>
       <comfooter></comfooter>
@@ -125,11 +137,19 @@
   }
   .neirong5 .list li{
     width: 200px;
-    height: 200px;
+    height: 230px;
     border: 1px solid rgba(0, 0, 0, 0.22);
     float: left;
     margin: 40px;
     overflow: hidden;
+  }
+  .neirong5 .list li p{
+    color: rgba(0, 0, 0, 0.63);
+    text-align: center;
+    line-height: 32px;
+  }
+  .neirong5 .list li p:hover{
+    color: black;
   }
   .neirong5 .list li img{
     width: 200px;
