@@ -164,27 +164,27 @@
 				<ul class="intherote" id="theWay">
 					<li>
 						<img src="../assets/img/rote1.png" alt="">
-						<span class="listtext">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我们都存活在一个地球，为了不破坏大气层的第N次污染，不要开车，不要开空调，在保护环境的情况下最好步行，更不能踩脚下的蚂蚁，不能打蚊子，保护自然生态。</span>
+						<span class="listtext">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;所有的道理都是相通的，我们所做的并非是创造性的工作，所有的问题前人都曾经解决，所以我们更是无所畏惧，更何况我们不只有书店，而且有互联 网，动动手脚就能找到需要的资料，我们只要认真研究就够了。所以当遇到困难时，请静下心来慢慢研究，因为只要用心，没有学不会的东西。</span>
 					</li>
 					<li>
 						<img src="../assets/img/rote2.png" alt="">
-						<span class="listtext">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我们都存活在一个地球，为了不破坏大气层的第N次污染，不要开车，不要开空调，在保护环境的情况下最好步行，更不能踩脚下的蚂蚁，不能打蚊子，保护自然生态。</span>
+						<span class="listtext">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;别心急，写脚本确实不容易；水平是在不断的实践中完善和发展的。</span>
 					</li>
 					<li>
 						<img src="../assets/img/rote3.png" alt="">
-						<span class="listtext">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我们都存活在一个地球，为了不破坏大气层的第N次污染，不要开车，不要开空调，在保护环境的情况下最好步行，更不能踩脚下的蚂蚁，不能打蚊子，保护自然生态。</span>
+						<span class="listtext">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;做技术一定要一颗恒心，这样才不会半途而废。</span>
 					</li>
 					<li>
 						<img src="../assets/img/rote1.png" alt="">
-						<span class="listtext">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我们都存活在一个地球，为了不破坏大气层的第N次污染，不要开车，不要开空调，在保护环境的情况下最好步行，更不能踩脚下的蚂蚁，不能打蚊子，保护自然生态。</span>
+						<span class="listtext">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我们应该重视团队的精神，一个人作用再大，也不过是一碗水中比较大的一粒水珠而已。</span>
 					</li>
 					<li>
 						<img src="../assets/img/rote2.png" alt="">
-						<span class="listtext">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我们都存活在一个地球，为了不破坏大气层的第N次污染，不要开车，不要开空调，在保护环境的情况下最好步行，更不能踩脚下的蚂蚁，不能打蚊子，保护自然生态。</span>
+						<span class="listtext">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;程序员可以让步，却不可以退缩，可以羞涩，却不可以软弱，总之，程序员必须是勇敢的。</span>
 					</li>
 					<li>
 						<img src="../assets/img/rote3.png" alt="">
-						<span class="listtext">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我们都存活在一个地球，为了不破坏大气层的第N次污染，不要开车，不要开空调，在保护环境的情况下最好步行，更不能踩脚下的蚂蚁，不能打蚊子，保护自然生态。</span>
+						<span class="listtext">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;作为一个真正的程序员，首先应该尊重编程，热爱你所写下的程序，他是你的伙伴，而不是工具。</span>
 					</li>
 				</ul>
 			</div>
