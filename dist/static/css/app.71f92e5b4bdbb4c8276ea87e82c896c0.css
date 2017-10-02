@@ -14,7 +14,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 #aside {
   width: 50%;
   height: 100%;
-  background: url(../img/home.3333f3f.jpg) no-repeat 50%;
+  background: url(.../img/home.3333f3f.jpg) no-repeat 50%;
   background-size: 100% 100%
 }
 
@@ -25,7 +25,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   justify-content: center;
   -webkit-box-align: center;
   align-items: center;
-  background: url(../img/home.3333f3f.jpg) no-repeat 50%
+  background: url(.../img/home.3333f3f.jpg) no-repeat 50%
 }
 
 .marsk {
@@ -181,7 +181,7 @@ body {
 .tophead {
   width: 100%;
   height: 200px;
-  background: url(../img/banner.a7906e9.png) no-repeat 50%
+  background: url(.../img/banner.a7906e9.png) no-repeat 50%
 }
 
 .tophead img {
@@ -308,7 +308,7 @@ body {
 .centralsection .photoexhibition {
   width: 1000px;
   height: 76px;
-  background: url(../img/share.458e43e.png) no-repeat;
+  background: url(.../img/share.458e43e.png) no-repeat;
   margin-top: 150px
 }
 
@@ -319,7 +319,7 @@ body {
 .share2 {
   width: 1000px;
   height: 130px;
-  background: url(../img/share2.f5cb3ef.png) no-repeat
+  background: url(.../img/share2.f5cb3ef.png) no-repeat
 }
 
 .share2 p {
@@ -383,7 +383,7 @@ body {
   width: 1000px;
   height: 400px;
   margin: 0 auto;
-  background: url(../img/rote.ef2d285.png) no-repeat;
+  background: url(.../img/rote.ef2d285.png) no-repeat;
   overflow-y: scroll
 }
 
@@ -412,7 +412,7 @@ body {
 .footer {
   width: 100%;
   height: 200px;
-  background: url(../img/bannerfoot.49e8496.png) no-repeat 50%;
+  background: url(.../img/bannerfoot.49e8496.png) no-repeat 50%;
   clear: both
 }
 
